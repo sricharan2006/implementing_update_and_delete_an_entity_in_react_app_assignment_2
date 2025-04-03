@@ -2,13 +2,13 @@
     "doors": [
         {
             "id": "1",
-            "name": "Front Door",
-            "status": "open"
+            "name": "Laptop",
+            "material": "Metal"
         },
         {
             "id": "2",
-            "name": "Back Door",
-            "status": "closed"
+            "name": "ball",
+            "material": "rubber"
         }
     ]
 }
